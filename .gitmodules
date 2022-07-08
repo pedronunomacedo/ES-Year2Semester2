@@ -1,0 +1,3 @@
+[submodule "Projects/ES-Project"]
+	path = Projects/ES-Project
+	url = git@github.com:pedronunomacedo/ES-Project.git
