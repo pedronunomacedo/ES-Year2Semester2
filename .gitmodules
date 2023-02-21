@@ -1,3 +1,6 @@
 [submodule "Projects/ES-Project"]
 	path = Projects/ES-Project
 	url = git@github.com:pedronunomacedo/ES-Project.git
+[submodule "Projects/1st_project"]
+	path = Projects/1st_project
+	url = git@github.com:LEIC-ES-2021-22/2LEIC06T2.git
